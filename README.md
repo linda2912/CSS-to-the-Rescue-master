@@ -1,2 +1,2 @@
-# CSS-to-the-Rescue
-HTML voor de CSS to the Rescue opdracht
+# CSS to the Rescue
+A responsive layout working in old browsers.
